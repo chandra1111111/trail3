@@ -3,6 +3,4 @@ applications:
 - name: Demo-Inovalon
   memory: 1024M
   path: SpringMVCSecurityXML/target/SpringMVCSecurityXML.war
-  services:
-  - clockwork-mysql
  
