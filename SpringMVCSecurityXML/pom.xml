@@ -4,11 +4,11 @@
    http://maven.apache.org/maven-v4_0_0.xsd">
     
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.o7planning</groupId>
-  <artifactId>SpringMVCSecurityXML</artifactId>
+  <groupId>com</groupId>
+  <artifactId>Inovalon</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SpringMVCSecurityXML Maven Webapp</name>
+  <name>SInovalon Maven Webapp</name>
   <url>http://maven.apache.org</url>
  
  
