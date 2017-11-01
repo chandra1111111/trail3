@@ -2,5 +2,5 @@
 applications:
 - name: Demo-Inovalon
   memory: 1024M
-  path: target/SpringMVCSecurityXML.war
+  path: SpringMVCSecurityXML/target/SpringMVCSecurityXML.war
  
