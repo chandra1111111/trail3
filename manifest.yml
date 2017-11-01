@@ -1,0 +1,6 @@
+---
+applications:
+- name: Demo-Inovalon
+  memory: 1024M
+  path: SpringMVCSecurityXML.war
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git"
