@@ -134,7 +134,7 @@
       <dependency>
     <groupId>com.barco.automation</groupId>
     <artifactId>barcoAutomation</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT-26</version>
 </dependency>
          
          
