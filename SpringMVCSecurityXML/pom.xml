@@ -159,6 +159,10 @@
                 -->   
             </plugin>
         </plugins>
-    </build>        
+    </build>      
+  
+  <scm>
+   <developerConnection>scm:git:https://github.com/Nagaraj4775/java-app.git</developerConnection>
+</scm>
      
 </project>
